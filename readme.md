@@ -121,8 +121,3 @@ This platform is a data-efficient, mobile-first solution designed to unify fragm
 * 
 **Transaction Security:** PCI-compliant payment handling via Stripe API.
 
-
-
----
-
-**Would you like me to generate the `Wallet` and `Order` migration files so you can run them in your Laravel project immediately?**
