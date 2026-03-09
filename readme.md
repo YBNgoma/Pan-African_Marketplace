@@ -102,22 +102,5 @@ This platform is a data-efficient, mobile-first solution designed to unify fragm
  |
 
 ---
-
-## 🏗️ Getting Started
-
-1. **Clone the Repo:** `git clone https://github.com/your-username/pan-african-marketplace`
-2. **Install Dependencies:** `composer install && npm install`
-3. **Configure `.env`:** Set up your Postgres credentials and Cloudflare R2 keys.
-4. **Stripe Setup:** Add your Stripe Secret Key and set the webhook to listen for `payment_intent.succeeded`.
-
----
-
-## ⚖️ Compliance & Security
-
-* 
-**Data Sovereignty:** Compliant with Zimbabwe's **Cyber and Data Protection Act** and Nigeria's **NDPR**.
-
-
 * 
 **Transaction Security:** PCI-compliant payment handling via Stripe API.
-
